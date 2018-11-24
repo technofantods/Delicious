@@ -365,3 +365,4 @@ fastlane/screenshots
 fastlane/readme.md
 
 # End of https://www.gitignore.io/api/osx,node,linux,reactnative
+*.env
