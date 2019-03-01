@@ -1,4 +1,4 @@
-## deDelicious
+## Delicious
 
 project to test nodeJS development.
 
